@@ -1,3 +1,3 @@
 # Sfx
 
-SFx files for jstris :p
+Sfx files for jstris :p
